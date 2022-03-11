@@ -1,0 +1,5 @@
+# Resumo do Curso JavaScript para Iniciantes
+
+O curso de JavaScript Basics for Beginners que realizei, foi instruído por Mosh Hamedani, um profissional Full-stack Developer, que disponibiliza seus cursos na plataforma Udemy. O conteúdo do curso abrange os fundamentos da programação em JavaScript, que é uma das linguagens de programação mais populares e usadas atualmente, muitas empresas criam seus aplicativos inteiros em JavaScript.JavaScript é uma linguagem de código aberto e multiplataforma, é usado em tecnologias web para fazer com que as páginas web se tornem interativas. Também é uma linguagem interpretada de alto nível que pode ser incorporada com outras linguagens como o HTML, por exemplo. 
+
+No curso, foi introduzido os fundamentos do uso de variáveis, constantes, objetos, arrays e funções. Também foram ensinados sobre os fluxos de controle, entre eles: if…else; switch…case; For; While; Do…While; Loops Infinitos; For…In e For…of. 
